@@ -1,1 +1,1 @@
-FROM ubuntu
+FROM mcr.microsoft.com/vscode/devcontainers/base:focal
